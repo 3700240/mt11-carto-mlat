@@ -1,3 +1,3 @@
 # mt11-carto-mlat
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="img/france_aero.svg" width="48">
